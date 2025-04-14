@@ -3,7 +3,7 @@ layout: post
 title: 'Moving to a new site: Welcome Jekyll & Chirpy'
 date: 2025-04-14 00:33 -0700
 categories: [Blog, Updates]
-tags: [updates, blog]
+tags: [blog, updates]
 ---
 
 # A Fresh Start For critter.dog
