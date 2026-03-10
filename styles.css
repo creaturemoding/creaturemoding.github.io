@@ -1,4 +1,6 @@
 body {
+  background-image: url(assets/background.gif);
+  background-size: 10%;
   background-color:#786bcb;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
