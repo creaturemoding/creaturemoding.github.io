@@ -8,6 +8,11 @@ body {
   align-items: center;
   
 }
+div {
+  background-color: rgb(198, 166, 240);
+  margin-left: 10%;
+  margin-right: 10%;
+}
 h1 {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
@@ -16,6 +21,7 @@ h1 {
   color: rgb(94, 198, 108);
 }
 h2 {
+  margin: 3%;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
@@ -24,6 +30,7 @@ h2 {
   color: rgb(94, 198, 108);
 }
 h3 {
+  margin: 3%;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
@@ -32,6 +39,7 @@ h3 {
   color: rgb(94, 198, 108);
 }
 h4 {
+  margin: 3%;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
@@ -40,6 +48,7 @@ h4 {
   color: rgb(94, 198, 108);
 }
 h5 {
+  margin: 3%;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
@@ -48,6 +57,7 @@ h5 {
   color: rgb(94, 198, 108);
 }
 h6 {
+  margin: 3%;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
@@ -56,6 +66,7 @@ h6 {
   color: rgb(94, 198, 108);
 }
 pre {
+  margin: 3%;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
@@ -63,6 +74,7 @@ pre {
   color: rgb(94, 198, 108);
 }
 p {
+  margin: 3%;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
