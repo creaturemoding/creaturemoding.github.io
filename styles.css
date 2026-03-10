@@ -1,7 +1,7 @@
 body {
   background-image: url(/assets/background.gif);
   background-blend-mode: overlay;
-  background-size: 10%;
+  background-size: 30%;
   background-color:#786bcb;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
@@ -12,8 +12,8 @@ h1 {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   align-items: center;
-  background-color: rgb(130, 171, 99);
-  color: rgb(87, 19, 175);
+  background-color: rgb(17, 23, 13);
+  color: rgb(94, 198, 108);
 }
 h2 {
   font-family: 'Courier New', Courier, monospace;
