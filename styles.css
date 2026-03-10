@@ -1,5 +1,5 @@
 body {
-  background-image: url(assets/background.gif);
+  background-image: url(/assets/background.gif);
   background-blend-mode: overlay;
   background-size: 10%;
   background-color:#786bcb;
