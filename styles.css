@@ -1,0 +1,25 @@
+body {
+  background-color:#25052d;
+  font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+  color: rgb(124, 255, 10);
+}
+h2 {
+  color: rgb(124, 255, 10);
+}
+h3 {
+  color: rgb(124, 255, 10);
+}
+h4 {
+  color: rgb(124, 255, 10);
+}
+h5 {
+  color: rgb(124, 255, 10);
+}
+h6 {
+  color: rgb(124, 255, 10);
+}
+p {
+  color: rgba(87, 224, 28, 0.77);
+}
