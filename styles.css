@@ -52,6 +52,13 @@ h6 {
   background-color: rgb(130, 171, 99);
   color: rgb(87, 19, 175);
 }
+pre {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(130, 171, 99);
+  color: rgb(44, 20, 106);
+}
 p {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
