@@ -1,0 +1,98 @@
+body {
+  background-image: url(../assets/salvation/theangelscall.gif);
+  background-blend-mode: overlay;
+  background-size: 5%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  
+}
+div {
+  background-color: rgb(247, 221, 159);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+h2 {
+  margin: 3%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  display: inline;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+h3 {
+  margin: 3%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  display: inline;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+h4 {
+  margin: 3%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  display: inline;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+h5 {
+  margin: 3%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  display: inline;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+h6 {
+  margin: 3%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  display: inline;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+pre {
+  margin: 3%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+p {
+  margin: 3%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(197, 189, 35);
+  color: rgb(255, 0, 0);
+}
+code {
+  background-color: rgb(28, 119, 210);
+  color: rgb(46, 62, 8);
+}
+a:link {
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+a:visited {
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+a:hover {
+background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
