@@ -1,4 +1,5 @@
 body {
+  cursor: url(/assets/cursors/cursor_normal.gif), pointer;
   background-image: url(/assets/background.gif);
   background-blend-mode: overlay;
   background-size: 30%;
@@ -84,4 +85,7 @@ p {
 code {
   background-color: slategray;
   color: aliceblue;
+}
+a{
+  cursor: url(/assets/cursors/cursor_click.gif), wait;
 }
