@@ -87,5 +87,5 @@ code {
   color: aliceblue;
 }
 a{
-  cursor: url(/assets/cursors/cursor_click.gif), wait;
+  cursor: url(/assets/cursors/cursor_click.gif), pointer;
 }
