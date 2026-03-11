@@ -1,5 +1,4 @@
 body {
-  cursor: url(/assets/cursors/cursor_normal.gif), pointer;
   background-image: url(/assets/background.gif);
   background-blend-mode: overlay;
   background-size: 30%;
@@ -86,6 +85,27 @@ code {
   background-color: slategray;
   color: aliceblue;
 }
-a{
-  cursor: url(/assets/cursors/cursor_click.gif), pointer;
+a:link {
+  background-color: rgb(17, 23, 13);
+  color: rgb(94, 198, 108);
+}
+a:visited {
+  background-color: rgb(17, 23, 13);
+  color: rgb(223, 236, 70);
+}
+a:hover {
+background-color: rgb(17, 23, 13);
+  color: rgb(66, 144, 77);
+}
+
+.row {
+  display: flex;
+}
+.column {
+  justify-content: center;
+  align-items: center;
+  margin-left: 0;
+  margin-right: 0;
+  flex: 33%;
+  vertical-align: middle;
 }
